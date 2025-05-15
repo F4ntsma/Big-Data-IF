@@ -27,7 +27,3 @@ Algumas das linguagens e ferramentas utilizadas nos projetos:
 ## 📌 Observações
 
 Este repositório pode ser atualizado com conteúdos profissionais no futuro, conforme avanço na carreira.
-
----
-
-Obrigado por visitar!
